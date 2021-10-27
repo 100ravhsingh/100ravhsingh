@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @100ravhsingh
+- 👋 Hi, I’m Saurabh singh
 - 👀 I’m interested in Web devlopment
 - 🌱 I’m currently learning react.js
 - 📫 How to reach me this is my g-mail 100ravh1999@gmail.com
